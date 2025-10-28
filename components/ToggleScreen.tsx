@@ -154,7 +154,7 @@ export default function ToggleScreen({ onMatchFound }: ToggleScreenProps) {
           <ul className="space-y-2 text-sm text-blue-800">
             <li className="flex items-start gap-2">
               <span>1️⃣</span>
-              <span>Toggle Driver or Rider mode when you're ready to go</span>
+              <span>Toggle Driver or Rider mode when you&apos;re ready to go</span>
             </li>
             <li className="flex items-start gap-2">
               <span>2️⃣</span>

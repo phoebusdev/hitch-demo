@@ -25,7 +25,7 @@ export default function MatchNotification({ onClose }: MatchNotificationProps) {
             <div className="bg-gradient-to-r from-green-500 to-emerald-600 text-white p-6 text-center">
               <div className="text-6xl mb-3">🎉</div>
               <h2 className="text-2xl font-bold mb-2">Match Found!</h2>
-              <p className="text-green-100">You've been matched with a rider</p>
+              <p className="text-green-100">You&apos;ve been matched with a rider</p>
             </div>
 
             <div className="p-6 space-y-4">
@@ -86,7 +86,7 @@ export default function MatchNotification({ onClose }: MatchNotificationProps) {
 
               {/* WhatsApp Info */}
               <p className="text-xs text-center text-gray-500">
-                After accepting, we'll send ride details via WhatsApp
+                After accepting, we&apos;ll send ride details via WhatsApp
               </p>
             </div>
           </>
@@ -104,7 +104,7 @@ export default function MatchNotification({ onClose }: MatchNotificationProps) {
                   📱 WhatsApp message sent
                 </p>
                 <p className="text-sm text-green-700">
-                  Check WhatsApp for Elena's contact and ride details
+                  Check WhatsApp for Elena&apos;s contact and ride details
                 </p>
               </div>
 

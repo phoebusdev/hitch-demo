@@ -58,7 +58,7 @@ export default function TripHistory() {
       <div className="bg-gradient-to-br from-blue-600 to-blue-800 text-white rounded-3xl p-6 shadow-lg">
         <div className="flex items-center justify-between mb-4">
           <div>
-            <p className="text-blue-200 text-sm mb-1">This Month's Earnings</p>
+            <p className="text-blue-200 text-sm mb-1">This Month&apos;s Earnings</p>
             <p className="text-4xl font-bold">{monthlyEarnings.toLocaleString()} L</p>
           </div>
           <div className="text-6xl">💰</div>
