@@ -21,7 +21,7 @@ export default function Landing() {
               Transportation without central planning
             </p>
             <p className="text-lg md:text-xl text-blue-200 max-w-3xl mx-auto animate-fadeIn" style={{animationDelay: '0.2s'}}>
-              AI observes how people naturally move—the "cowpaths" of daily life—and builds intelligent, decentralized ridesharing that works for everyone.
+              AI observes how people naturally move—the &ldquo;cowpaths&rdquo; of daily life—and builds intelligent, decentralized ridesharing that works for everyone.
             </p>
           </div>
 
@@ -90,7 +90,7 @@ export default function Landing() {
               The Cowpath Philosophy
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Instead of forcing people into predefined systems, Hitch observes natural movement patterns—the "cowpaths" people create—and builds intelligence around them.
+              Instead of forcing people into predefined systems, Hitch observes natural movement patterns—the &ldquo;cowpaths&rdquo; people create—and builds intelligence around them.
             </p>
           </div>
 
@@ -98,13 +98,13 @@ export default function Landing() {
             <div>
               <div className="bg-gradient-to-br from-emerald-500 to-emerald-700 text-white rounded-3xl p-8 shadow-2xl">
                 <div className="text-6xl mb-4">🛤️</div>
-                <h3 className="text-3xl font-bold mb-4">What's a Cowpath?</h3>
+                <h3 className="text-3xl font-bold mb-4">What&apos;s a Cowpath?</h3>
                 <p className="text-lg text-emerald-100 leading-relaxed">
-                  In urban planning, a "cowpath" is the worn trail that appears when people naturally choose the most efficient route—not the one someone planned for them.
+                  In urban planning, a &ldquo;cowpath&rdquo; is the worn trail that appears when people naturally choose the most efficient route—not the one someone planned for them.
                 </p>
                 <div className="mt-6 pt-6 border-t border-emerald-400/30">
                   <p className="text-emerald-50 italic">
-                    "The most sophisticated design is the one that follows organic behavior, not the one that tries to control it."
+                    &ldquo;The most sophisticated design is the one that follows organic behavior, not the one that tries to control it.&rdquo;
                   </p>
                 </div>
               </div>
@@ -137,7 +137,7 @@ export default function Landing() {
                 </div>
                 <div>
                   <h4 className="text-xl font-bold text-gray-900 mb-2">Intelligent Matching</h4>
-                  <p className="text-gray-600">When compatible riders and drivers are detected, you get a notification. Accept or decline—that's it.</p>
+                  <p className="text-gray-600">When compatible riders and drivers are detected, you get a notification. Accept or decline—that&apos;s it.</p>
                 </div>
               </div>
 
@@ -246,7 +246,7 @@ export default function Landing() {
                 <ul className="space-y-4">
                   <li className="flex gap-3">
                     <span className="text-red-500 text-xl">✗</span>
-                    <span className="text-gray-700">Central authority decides "optimal" routes</span>
+                    <span className="text-gray-700">Central authority decides &ldquo;optimal&rdquo; routes</span>
                   </li>
                   <li className="flex gap-3">
                     <span className="text-red-500 text-xl">✗</span>
